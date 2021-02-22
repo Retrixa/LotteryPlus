@@ -1,0 +1,6 @@
+name: LotteryPlus
+version: ${project.version}
+main: retrixastudios.lotteryplus.LotteryPlus
+api-version: 1.16.5
+authors: [Retrixa]
+description: Spigot plugin for Lottery.
